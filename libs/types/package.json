@@ -1,0 +1,18 @@
+{
+  "name": "typemanager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nestjs/graphql": "^12.0.8",
+    "@nestjs/typeorm": "^10.0.0",
+    "@seratch_/bolt-typeorm": "^1.0.3",
+    "graphql": "^16.7.1",
+    "typeorm": "^0.3.17"
+  }
+}
